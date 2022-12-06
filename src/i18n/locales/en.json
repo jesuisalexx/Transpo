@@ -1,0 +1,18 @@
+{
+  "pagination": {
+    "elements-count": "{from}-{to} of {total}",
+    "next": "следующая",
+    "previous": "предыдущая"
+  },
+  "header": {
+    "problem-or-offer": "Появилась проблема или предложение?",
+    "contact-support": "Написать в суппорт"
+  },
+  "filepicker": {
+    "add-photo": "Добавить реальное фото транспорта",
+    "download": "Загрузить"
+  },
+  "select": {
+    "add-option": "Добавить новый"
+  }
+}

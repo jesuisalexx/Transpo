@@ -1,0 +1,1 @@
+<template>  <IconsMap />  <LevitatingLayer /></template><script setup lang="ts">import IconsMap from '@/components/core/icon/IconsMap.vue';import LevitatingLayer from '@/components/app/leviatingLayer/LevitatingLayer.vue';</script>

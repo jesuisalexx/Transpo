@@ -1,0 +1,22 @@
+@import "functions";
+
+
+@mixin text-ultra {
+    font-weight: 400;
+    font-size: rem(1100px);
+}
+
+@mixin text-md {
+    font-weight: 400;
+    font-size: rem(18px);
+}
+
+@mixin text {
+    font-weight: 400;
+    font-size: rem(16px);
+}
+
+@mixin text-sm {
+    font-weight: 400;
+    font-size: rem(14px);
+}
